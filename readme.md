@@ -69,6 +69,7 @@ docker exec -it docker-golang_form-db-1 mysql -u root -p
 # Enter password: rootpassword
 🧹 Stop & Clean Up
 docker-compose down
+
 💡 Future Ideas
 Add form validation
 
