@@ -16,11 +16,16 @@ A simple web form built with Golang that collects user `username` and `email`, s
 ## 📁 Project Structure
 
 ├── docker-compose.yml
+
 ├── init.sql 
+
 ├── web 
+
 ├── Dockerfile 
+
 ├── go.mod 
-│ └── main.go
+
+└── main.go
 
 
 ## 🚀 Getting Started
